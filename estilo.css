@@ -76,6 +76,6 @@ label {
 .audio1 {
     margin-left: 22%;
     display: block;
-    z-index: 2;
+    z-index: 1;
 }
 
